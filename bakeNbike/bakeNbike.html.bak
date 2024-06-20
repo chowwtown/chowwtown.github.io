@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 
+* {
+	text-decoration:none;
+}
+
 <html lang="en">
 <head>
 	<meta charset="utf-8"/>
@@ -37,6 +41,8 @@
 	
 	<section>
 		<h2>Desserts</h2>
+		<img src="https://img.icons8.com/?size=100&id=UngBWuoAAPCE&format=png&color=000000" alt="cake icon">
+		
 		<article class="item"><p class="dessert">Basque Cheese Cake</p><p class="price">$-.--</p></article>
 		<article class="item"><p class="dessert">Chocolate Walnut Cookie</p><p class="price">$-.--</p></article>
 		<article class="item"><p class="dessert">Almond Cookie</p><p class="price">$-.--</p></article>
@@ -51,6 +57,9 @@
 	</p>
 	<p class="address">Terrazas Rd, Krong Siem Reap 171001</p>
 	</footer>
+	<p class="chowtown">
+		<a href="https://chowwtown.github.io/" target="_blank">see more of chowwtown projects</a>
+	</p>
 </div>
 </body>
 </html>

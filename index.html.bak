@@ -1,12 +1,24 @@
 <!DOCTYPE html>
 
-<html>
+<html lang="en">
 <head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>choww town</title>
+	<link rel="stylesheet" href="stylesIndex.css">
 </head>
 
 <body>
- <h1>choww town</h1>
- <a href="#">Bake and Bike</a>
+<nav>
+ <p class="logo">choww town</p>
+</nav>
+ 
+ <div id="links">
+ <ul>
+	<a href="bakeNbike/bakeNbike.html">Bake and Bike</a>
+ </ul>
+ </div>
+
+ 
 </body>
 </html>

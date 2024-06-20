@@ -1,0 +1,15 @@
+html {scroll-behavior:smooth;}
+
+*{
+	text-decoration:none;
+}
+
+.logo a{
+	font-size:40px;
+	color:white;
+}
+
+nav{
+	font-family:Arial,serif;
+	background:#C6BF86;
+}
